@@ -63,8 +63,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 9. Acknowledgements:
 
--tkinter for the GUI framework.
--Python community for the extensive libraries and support.
+- tkinter for the GUI framework.
+- Python community for the extensive libraries and support.
 
 ## 10. Connect with Me
 
