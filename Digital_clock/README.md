@@ -44,18 +44,18 @@ This project is a simple digital clock application created using Python's `tkint
 
 2. **Observe the Clock:**
 
-The digital clock will be displayed in a window with a background color that changes every second.
-The clock updates in real-time, showing hours, minutes, and seconds.
+- The digital clock will be displayed in a window with a background color that changes every second.
+- The clock updates in real-time, showing hours, minutes, and seconds.
 
 ## 6. Customization:
 
-Font and Size: Modify the font parameter in the tk.Label widget.
-Color Scheme: Adjust the bg_colors list to include any colors you prefer.
+- Font and Size: Modify the font parameter in the tk.Label widget.
+- Color Scheme: Adjust the bg_colors list to include any colors you prefer.
 
 ## 7. Troubleshooting:
 
-If the application does not run: Ensure that tkinter is installed and properly set up in your Python environment.
-Background color not updating: Verify the bg_colors list and ensure it contains valid color names.
+- If the application does not run: Ensure that tkinter is installed and properly set up in your Python environment.
+- Background color not updating: Verify the bg_colors list and ensure it contains valid color names.
 
 ## 8. License:
 
@@ -63,11 +63,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 9. Acknowledgements:
 
-tkinter for the GUI framework.
-Python community for the extensive libraries and support.
-
-    ```vbnet
-    Feel free to adjust the instructions as needed based on your project's specifics!
+-tkinter for the GUI framework.
+-Python community for the extensive libraries and support.
 
 ## 10. Connect with Me
 
